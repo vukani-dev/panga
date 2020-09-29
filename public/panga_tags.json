@@ -1,0 +1,13 @@
+[{
+        "tagName": "funny",
+        "priority": 0
+    },
+    {
+        "tagName": "cute",
+        "priority": 1
+    },
+    {
+        "tagName": "fav",
+        "priority": 0
+    }
+]

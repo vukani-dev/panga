@@ -1,0 +1,10 @@
+version: "3"
+services:
+  panga:
+    image: panga:1.1
+    network_mode: "host"
+    container_name: panga
+    ports: 
+      - 8000:3000
+  hello:
+    image: hello-world:latest
